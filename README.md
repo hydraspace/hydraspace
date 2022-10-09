@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hydraspace
-- 👀 I’m interested in art and computers.
-- 💞️ I’m looking to collaborate on art and technology projects. 
+- 👀 I’m interested in computers, data, art, music, sustainability, and more
 - 📫 Reach me at hydraspaced@protonmail.com
 
 <!---
