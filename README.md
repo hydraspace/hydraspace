@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @hydraspace
-- 👀 I’m interested in computers, data, art, music, sustainability, and more
-- 📫 Reach me at hydraspaced@protonmail.com
+- Hello world from hydraspace. Thinking about computers, data, languages, art, music, sustainability, and the universe. 
 
 <!---
 hydraspace/hydraspace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
